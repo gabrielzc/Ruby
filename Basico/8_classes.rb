@@ -1,6 +1,5 @@
 class Carro
     attr_accessor :nome
-
     def ligar
         puts 'O carro está ligado.'
     end
